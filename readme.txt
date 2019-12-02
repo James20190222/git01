@@ -1,11 +1,12 @@
 Today learn Git!
 Add new Function 01
 1111
-今天是2019年2月26日11:45:41
-2019年11月30日19:11:55
+陆帽脤矛脢脟2019脛锚2脭脗26脠脮11:45:41
+2019脛锚11脭脗30脠脮19:11:55
 native
 Starbucks
 star,,,,
 clone add
 I had a good dinner
 use tortoise
+The harder,the better
