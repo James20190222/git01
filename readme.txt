@@ -6,4 +6,5 @@ Add new Function 01
 native
 Starbucks
 star,,,,
+clone add
 
